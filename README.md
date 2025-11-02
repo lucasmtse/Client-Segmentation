@@ -140,4 +140,15 @@ Bar charts and radar plots summarize the key differences across **Recency**, **F
 
 These visual analyses clearly highlight behavioral distinctions between customer groups and serve as a foundation for targeted marketing strategies.
 
+---
+
+## 👤 Author & Contact
+
+-   **Author:** Lucas Miedzyrzecki  
+-   **LinkedIn:** [https://www.linkedin.com/in/lucas-miedzyrzecki](https://www.linkedin.com/in/lucas-miedzyrzecki-760993262/)  
+-   **Email:**: lucasmied.tse@gmail.com  
+-   **GitHub:** [https://github.com/lucasmtse](https://github.com/lucasmtse)  
+
+
+
 
